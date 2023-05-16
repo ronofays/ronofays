@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ronofays
 - 👀 I’m interested in machine learning, medical data science, brain-machine interface, neuroscience
-- 🌱 I’m currently learning pytorch
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me ronofays@gmail.com
 
 <!---
