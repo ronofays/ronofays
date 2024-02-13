@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ronofays
-- 👀 I’m interested in machine learning, medical data science, brain-machine interface, neuroscience
-- 🌱 I’m currently learning rust
-- 💞️ I’m looking to collaborate on machine learning projects
+👋 Hi, I’m @ronofays
+
+💬 I like digging into technology for the joy of discovering how things work. In particular, I am super interested in devoloping software tools that provide superpower-like learning abilities for humans. Anki is an inspiring project for me, and I am fascinated by the idea of applying spaced repetition to devoloping procederal memory.
+
+- 🌱 I am learning rust and offensive security
+
 - 📫 How to reach me ronofays@gmail.com
 
 <!---
